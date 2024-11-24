@@ -1,0 +1,26 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "baseName": "HotelServiceApplication",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": null,
+    "clientPackageManager": null,
+    "clientTheme": null,
+    "creationTimestamp": 1732462562181,
+    "databaseType": "mongodb",
+    "devServerPort": 4200,
+    "enableHibernateCache": false,
+    "enableTranslation": false,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "ZDcwNzExNWE1Y2MyYzJjOWYzOGU0NWJmMDQxNzZlMGRkMDNhZjU0YmMwNWMyZGQ3NjZlNTAxODE4MGQwNzgwMmU0MjU0MDEyYjZlMzY0MDg5MTRlZTQ2OWM0NTdiM2EzZmIyNGEyOTE5NmQ4M2UxNTMzODkxMTFiNDZiODgxNjM=",
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": null,
+    "testFrameworks": null,
+    "websocket": null
+  }
+}
